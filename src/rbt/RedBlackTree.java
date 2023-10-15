@@ -1,5 +1,7 @@
 package rbt;
 
+// The code is retrieved from https://www.programiz.com/dsa/red-black-tree
+// There was some bugs in the code and they are fixed.
 
 public class RedBlackTree {
     private final RBTNode TNULL;

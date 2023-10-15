@@ -1,5 +1,6 @@
 package linkedset;
 
+// LinkedSet implementation as the changed version of Red-Black Tree implementation.
 
 public class LinkedSet {
     private final LinkedSetNode TNULL;
